@@ -1,0 +1,3 @@
+Proje Hakkında Piri Reis Üniversitesi NESNEYE DAYALI PROGRAMLAMA-I dersi,Java dilinde yazılmış ,UçuşRezervasyonProjesidir(FlightReservationProject).,Ali Fuat Dülger tarafından hazırlanmıştır.
+
+Proje İçeriği/Özet:Java dilinde OOP(Object Oriented Programming/Nesne Tabanlı Programlama)ile yazılmış bir UçuşRezervasyonProjesi konsol uygulaması oluşturdum.Kodu tek dosya yapmak yerine okunabilirlik açısından daha iyi olması için ayrı class'lara böldüm.Projeyi hazırlarken kodları türkçe yapmak yerine ingilizce kullanmaya dikkat ettim.Gerekli bilgileri .json dosya uzantısı şeklinde data klasörü içine oluşturduğum dosyalara kaydettim(flights.json,locations.json,planes.json ve reservations.json).
